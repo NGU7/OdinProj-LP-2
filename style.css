@@ -14,8 +14,10 @@
 .header {
     display: flex;
     justify-content: space-between;
+    padding: 16px 0px;
 }
 
 .headl {
     font-size: 24px;
+    font-weight: 500;
 }
