@@ -26,8 +26,6 @@
 .headr {
     color: lightgray;
     font-size: 18px;
-    display: flex;
-    gap: 20px;
 }
 
 ul {
@@ -42,9 +40,13 @@ ul {
 }
 
 .ct1left {
+    display: flex;
+    flex: 1 1 0;
     background-color: lightcoral;
 }
 
 .ct1right {
+    display: flex;
+    flex: 1 1 0;
     background-color: lightblue;
 }
