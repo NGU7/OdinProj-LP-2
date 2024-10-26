@@ -197,3 +197,12 @@ h3 {
     font-size: 16px;
     font-weight: 800;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    background-color: #1f2937;
+    color:white;
+}
