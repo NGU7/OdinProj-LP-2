@@ -102,6 +102,7 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    gap: 25px;
 }
 
 .icons {
@@ -121,4 +122,22 @@ h3 {
     margin: 10px;
 }
 
-.subtext
+.subtext {
+    text-align: center;
+    font-size: 18px;
+    color: #1f2937;
+}
+
+.content3 {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 350px;
+}
+
+.content3 p {
+    padding: 0px;
+    margin: 0px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+}
