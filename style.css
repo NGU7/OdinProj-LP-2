@@ -151,3 +151,49 @@ h3 {
     font-weight: bold;
     font-style: normal;
 }
+
+.content4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 200px;
+
+}
+
+.content4 .bluebox {
+    display: flex;
+    padding: 50px 150px;
+    margin: 100px 0px;
+    background-color: #3882f6;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.ct4l {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-right: 189px;
+}
+.ct4l .bold {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.ct4l p {
+    margin: 0px;
+    font-weight: 300;
+}
+
+.ct4r button{
+    border-radius: 10px;
+    border: #e5e7eb;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #3882f6;
+    color: white;
+    padding: 5px 30px;
+    font-size: 16px;
+    font-weight: 800;
+}
